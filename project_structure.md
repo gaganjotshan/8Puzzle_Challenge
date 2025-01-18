@@ -1,3 +1,5 @@
+Project Structure
+```plaintext
 8-puzzle-solver/
 │
 ├── src/
